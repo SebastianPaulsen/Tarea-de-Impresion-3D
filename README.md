@@ -5,7 +5,7 @@ Descripcion y Finalidad del Diseño
 El diseño de este proyecto consiste en una prensa de banco de escritorio hecha de PLA. La finalidad de este diseño en particular es ofrecer una prensa que se puede ensamblar sin necesidad de elementos externos como pernos o tornillos sino que tiene un funcionamiento tipo rompecabezas. 
 Este diseño cuenta con una abertura de 10 [cm] y un ancho util de 7 [cm] ademas de consistir tan solo en 9 piezas ensamblables, faciles de imprimir en 3D.
 
-This projects design is of a desktop press made of PLA plastic. The purpose of this particular design is to offer a press capable of assembly without the need of external elements like bolts and screws but with a puzzle-like mechanism.
+This projects design is of a desktop press made of PLA plastic. The purpose of this particular design is to offer a press capable of assembling without the need of external elements like bolts and screws but with a puzzle-like mechanism.
 This design has an opening of 10 [cm] and a useful width of 7 [cm], it also has only 9 assembleable pieces, easy to 3D print.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
