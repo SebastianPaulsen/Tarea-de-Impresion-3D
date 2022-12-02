@@ -1,4 +1,4 @@
-# Tarea-de-Impresion-3D
+# Tarea-de-Impresion-3D (Felipe Barriga - Edgardo Merino - Sebastian Paulsen)
 
 Descripcion y Finalidad del Diseño
 
