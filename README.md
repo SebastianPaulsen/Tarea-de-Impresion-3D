@@ -24,17 +24,16 @@ Los componentes que conforman la prensa de banco de escritorio son los siguiente
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 Tiempo de Impresion y Peso
 
 El tiempo de impresion y peso de los componentes son los siguientes:
 -Barra de Apriete: 15 [min], 2[g]
 -Tornillo: 37 [min], 3[g]
 -Tuerca de Fijacion: 158 [min], 16[g]
--Riel lateral de Avance (x2): 
+-Riel lateral de Avance (x2): 180 [min] 24 [g]
 -Piston:
--Piston Trasero/Pared Trasera:
--Pared de Fijado del Tornillo:
+-Piston Trasero/Pared Trasera: 250 [min] 45 [g]
+-Pared de Fijado del Tornillo: 230 [min] 40 [g]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
